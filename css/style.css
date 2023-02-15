@@ -1,0 +1,16 @@
+:root {
+    /* color */
+    --white: #FFFFFF;
+    --dark-gray: #333333;
+    --gray: #4F4F4F;
+    --light-gray: #BDBDBD;
+
+    /* fonts */
+    --main-font: 'Space Mono', monospace;
+    --secundary-font: 'Montserrat', sans-serif;
+    --other-font: 'Inconsolata', monospace;
+}
+
+* {
+    font-family: var(--main-font);
+}
